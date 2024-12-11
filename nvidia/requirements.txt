@@ -1,12 +1,12 @@
-transformers==4.46.3
+transformers==4.47.0
 datasets==3.1.0
 sentence-transformers==3.3.0
 pillow==10.4.0
 fire==0.7.0
 huggingface_hub==0.26.2
-accelerate==1.1.1
+accelerate==1.2.0
 sentencepiece==0.2.0
-bitsandbytes==0.44.1
+bitsandbytes==0.45.0
 datasets==3.1.0
 setuptools==75.5.0
 lightning==2.4.0
